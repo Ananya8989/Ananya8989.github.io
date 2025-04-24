@@ -3,8 +3,11 @@ h1{
   text-align: center;
 }
 
-img{
-  display: block;
-  margin: auto;
+div {
+  display: flex;
+  justify-content: center;
+}
+
+img {
   width: 50%;
 }
